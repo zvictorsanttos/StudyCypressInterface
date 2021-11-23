@@ -1,4 +1,4 @@
-Estudos - Cypress + Cucumber
+# Estudos - Cypress + Cucumber
 
 Pré-requisitos para rodar localmente
 Instalação no Windowns
